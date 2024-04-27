@@ -40,6 +40,11 @@ h2 {
 ul {
   margin: 0;
 }
+.container {
+  height: 500px;
+  /* margin-top: 10%; */
+  row-gap: 5px;
+}
 .card{
   display: flex;
   justify-content: center;
@@ -50,12 +55,6 @@ ul {
   margin: 5% auto;
   width: fit-content;
 }
-.container {
-  height: 500px;
-  /* margin-top: 10%; */
-  row-gap: 5px;
-}
-
 .player,
 .playlist {
   width: 450px;

@@ -5,6 +5,7 @@ const nextButton = document.getElementById("next");
 const previousButton = document.getElementById("previous");
 const shuffleButton = document.getElementById("shuffle");
 
+// songs list and links
 const allSongs = [
   {
     id: 0,
