@@ -327,6 +327,10 @@ button:focus,
     flex-direction: column;
     border-radius:0;
   }
+  .playlist{
+    border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  }
 }
 
 @media (max-width: 700px) {
@@ -435,5 +439,4 @@ button:focus,
     gap: 20px;
     bottom: 1em;
   }
-
 }
